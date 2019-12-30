@@ -39,3 +39,5 @@
   ## a.webpack-bundle-analyzer分析打包后的文件
   ## b.externals
   ## c.Tree-shaking
+
+参考文章: https://segmentfault.com/a/1190000021395777
